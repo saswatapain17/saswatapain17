@@ -1,6 +1,6 @@
 # Hi, I'm [Your Name] 👋
 
-![Header](https://github.com/YourUsername/YourUsername/blob/main/header.png)
+![Header]()
 
 ## 👨‍💻 About Me
 I am a [Your Job Title/Role] with a passion for [Your Interests]. I have experience in [Your Key Skills], and I am currently working on [Your Current Project/Technology].
