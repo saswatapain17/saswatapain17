@@ -3,7 +3,7 @@
 ![Header](https://github.com/saswatapain17/saswatapain17/blob/main/thoughtworks-gif_dribbble.gif)
 
 ## 👨‍💻 About Me
-I am a M.Tech student from IIT Jammu  with a passion for Full Stack Web Development and DataScience. I and I am currently a Research intern at IIT Jodhpur.
+I am a M.Tech CSE student from IIT Jammu  with a passion for Full Stack Web Development and DataScience. I and I am currently a Research Intern at IIT Jodhpur.
 
 - 🔭 I’m currently working on Ascites Segmentation.
 - 🌱 I’m learning Pytorch,GAN.
