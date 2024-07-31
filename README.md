@@ -1,39 +1,29 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Saswata Pain👋
 
 ![Header](https://github.com/saswatapain17/saswatapain17/blob/main/thoughtworks-gif_dribbble.gif)
 
 ## 👨‍💻 About Me
-I am a [Your Job Title/Role] with a passion for [Your Interests]. I have experience in [Your Key Skills], and I am currently working on [Your Current Project/Technology].
+I am a M.Tech student from IIT Jammu  with a passion for Full Stack Web Development and DataScience. I and I am currently a Research intern at IIT Jodhpur.
 
-- 🔭 I’m currently working on [Project/Technology].
-- 🌱 I’m learning [New Technology/Skill].
-- 👯 I’m looking to collaborate on [Type of Projects/Technologies].
-- 🤔 I’m looking for help with [Specific Help You Need].
-- 💬 Ask me about [Your Skills/Technologies].
-- 📫 How to reach me: [Your Email/Contact Information].
-- 😄 Pronouns: [Your Pronouns].
-- ⚡ Fun fact: [A Fun Fact About You].
+- 🔭 I’m currently working on Ascites Segmentation.
+- 🌱 I’m learning Pytorch,GAN.
+- 💬 Ask me about Java, React, Node, DeepLearning.
 
 ## 🛠️ Skills
-- **Languages:** JavaScript, Python, Java, C++
-- **Frameworks:** React, Node.js, Express, Django
-- **Databases:** MongoDB, MySQL, PostgreSQL
-- **Tools:** Git, Docker, Jenkins, VS Code
+- **Languages:** Java,JavaScript, Python
+- **Frameworks:** React, Node.js, Express
+- **Databases:** MongoDB, MySQL
+- **Tools:** Git, VS Code, Jupyter, Google Colab
 
-## 🚀 Projects
-- **[Project Name](Project URL)**
-  - Description: [Brief description of the project].
-  - Technologies: [Technologies Used].
+## 🚀 Current Projects
+- **[Ascotes Segmentation]()**
+  - Description: Developing efficient algoritgm to detect Overian Cancer at early stage and save lives.
+  - Technologies and Tools: Semisupervised learning, Pytorch, NVIDIA Cuda, ITK Snap
 
-- **[Another Project Name](Another Project URL)**
-  - Description: [Brief description of the project].
-  - Technologies: [Technologies Used].
+- **[AI Image Generator]*
+  - Description: Generate AI image with description given in written form.
+  - Technologies: MERN, DALL-E, Generative AI
 
-## 📊 GitHub Stats
-
-![YourUsername's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&hide_title=true&hide=prs&count_private=true&theme=radical)
-
-![Your Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&hide_title=true&theme=radical)
 
 ## 📧 Contact Me
 - **Email:** [your.email@example.com](mailto:your.email@example.com)
